@@ -1,0 +1,477 @@
+Gender,Married,Dependents,Education,ApplicantIncome,Cosigner_Income,Amount_Of_Loan,Term_of_Loan,Credit_History_Available,Approved
+Male,No,0,Postsecondary,5849,0,,360,1,Y
+Male,Yes,1,Postsecondary,4583,1508,128,360,1,N
+Male,Yes,0,Postsecondary,3000,0,66,360,1,Y
+Male,Yes,0,Postsecondary,2583,2358,120,360,1,Y
+Male,No,0,No Postsecondary,6000,0,141,360,1,Y
+Male,Yes,2,No Postsecondary,5417,4196,267,360,1,Y
+Male,Yes,0,No Postsecondary,2333,1516,95,360,1,Y
+Male,Yes,3+,No Postsecondary,3036,2504,158,360,0,N
+Male,Yes,2,Postsecondary,4006,1526,168,360,1,Y
+Male,Yes,1,No Postsecondary,12841,10968,349,360,1,N
+Male,Yes,2,No Postsecondary,3200,700,70,360,1,Y
+Male,Yes,2,Postsecondary,2500,1840,109,360,1,Y
+Male,Yes,2,Postsecondary,3073,8106,200,360,1,Y
+Male,No,0,Postsecondary,1853,2840,114,360,1,N
+Male,Yes,2,Postsecondary,1299,1086,17,120,1,Y
+Male,No,0,Postsecondary,4950,0,125,360,1,Y
+Male,No,1,Postsecondary,3596,0,100,240,,Y
+Female,No,0,Postsecondary,3510,0,76,360,0,N
+Male,Yes,0,Postsecondary,4887,0,133,360,1,N
+Male,Yes,0,Postsecondary,2600,3500,115,,1,Y
+Male,Yes,0,No Postsecondary,7660,0,104,360,0,N
+Male,Yes,1,No Postsecondary,5955,5625,315,360,1,Y
+Male,Yes,0,Postsecondary,2600,1911,116,360,0,N
+,Yes,2,No Postsecondary,3365,1917,112,360,0,N
+Male,Yes,1,Postsecondary,3717,2925,151,360,,N
+Male,Yes,0,Postsecondary,9560,0,191,360,1,Y
+Male,Yes,0,Postsecondary,2799,2253,122,360,1,Y
+Male,Yes,2,Postsecondary,4226,1040,110,360,1,Y
+Male,No,0,Postsecondary,1442,0,35,360,1,N
+Female,No,2,Postsecondary,3750,2083,120,360,1,Y
+Male,Yes,1,No Postsecondary,4166,3369,201,360,,N
+Male,No,0,Postsecondary,3167,0,74,360,1,N
+Male,No,1,Postsecondary,4692,0,106,360,1,N
+Male,Yes,0,Postsecondary,3500,1667,114,360,1,Y
+Male,No,3+,Postsecondary,12500,3000,320,360,1,N
+Male,Yes,0,Postsecondary,2275,2067,,360,1,Y
+Male,Yes,0,Postsecondary,1828,1330,100,,0,N
+Female,Yes,0,Postsecondary,3667,1459,144,360,1,Y
+Male,No,0,Postsecondary,4166,7210,184,360,1,Y
+Male,No,0,Postsecondary,3748,1668,110,360,1,Y
+Male,No,0,Postsecondary,3600,0,80,360,1,N
+Male,No,0,Postsecondary,1800,1213,47,360,1,Y
+Male,Yes,0,No Postsecondary,2400,0,75,360,,Y
+Male,Yes,0,Postsecondary,3941,2336,134,360,1,Y
+Male,Yes,0,Postsecondary,4695,0,96,,1,Y
+Female,No,0,Postsecondary,3410,0,88,,1,Y
+Male,Yes,1,No Postsecondary,5649,0,44,360,1,Y
+Male,Yes,0,No Postsecondary,5821,0,144,360,1,Y
+Female,Yes,0,Postsecondary,2645,3440,120,360,0,N
+Female,No,0,No Postsecondary,4000,2275,144,360,1,Y
+Female,Yes,0,Postsecondary,1928,1644,100,360,1,Y
+Female,No,0,No Postsecondary,3086,0,120,360,1,Y
+Female,No,0,Postsecondary,4230,0,112,360,1,N
+Male,Yes,2,Postsecondary,4616,0,134,360,1,N
+Female,Yes,1,No Postsecondary,11500,0,286,360,0,N
+Male,Yes,2,Postsecondary,2708,1167,97,360,1,Y
+Male,Yes,0,No Postsecondary,2132,1591,96,360,1,Y
+Male,Yes,0,Postsecondary,3366,2200,135,360,1,N
+Male,Yes,1,Postsecondary,8080,2250,180,360,1,Y
+Male,Yes,2,Postsecondary,3357,2859,144,360,1,Y
+Male,Yes,0,No Postsecondary,2500,3796,120,360,1,Y
+Male,Yes,3+,Postsecondary,3029,0,99,360,1,Y
+Male,Yes,0,Postsecondary,2609,3449,165,180,0,N
+Male,Yes,1,Postsecondary,4945,0,,360,0,N
+Female,No,0,No Postsecondary,4166,0,116,360,0,N
+Male,Yes,0,Postsecondary,5726,4595,258,360,1,N
+Male,No,0,No Postsecondary,3200,2254,126,180,0,N
+Male,Yes,1,Postsecondary,10750,0,312,360,1,Y
+Male,Yes,3+,Postsecondary,7100,0,125,60,1,Y
+Female,No,0,Postsecondary,4300,0,136,360,0,N
+Male,Yes,0,Postsecondary,3208,3066,172,360,1,Y
+Male,Yes,2,Postsecondary,1875,1875,97,360,1,Y
+Male,No,0,Postsecondary,3500,0,81,300,1,Y
+Male,Yes,3+,Postsecondary,4755,0,95,,0,N
+Male,Yes,3+,No Postsecondary,5266,1774,187,360,1,Y
+Male,No,0,Postsecondary,3750,0,113,480,1,N
+Male,No,0,Postsecondary,3750,4750,176,360,1,N
+Male,Yes,1,Postsecondary,1000,3022,110,360,1,N
+Male,Yes,3+,Postsecondary,3167,4000,180,300,0,N
+Male,Yes,3+,Postsecondary,3333,2166,130,360,,Y
+Female,No,0,Postsecondary,3846,0,111,360,1,Y
+Male,Yes,1,Postsecondary,2395,0,,360,1,Y
+Female,Yes,2,No Postsecondary,1378,1881,167,360,1,N
+Male,Yes,0,Postsecondary,6000,2250,265,360,,N
+Male,Yes,1,Postsecondary,3988,0,50,240,1,Y
+Male,No,0,Postsecondary,2366,2531,136,360,1,Y
+Male,Yes,2,Postsecondary,3333,2000,99,360,,Y
+Male,Yes,0,Postsecondary,2500,2118,104,360,1,Y
+Male,No,0,No Postsecondary,8566,0,210,360,1,Y
+Male,Yes,0,Postsecondary,5695,4167,175,360,1,Y
+Male,Yes,0,Postsecondary,2958,2900,131,360,1,Y
+Male,Yes,2,Postsecondary,6250,5654,188,180,1,Y
+Male,Yes,2,Postsecondary,3273,1820,81,360,1,Y
+Male,No,0,No Postsecondary,4133,0,122,360,1,Y
+Male,No,0,Postsecondary,3620,0,25,120,1,Y
+Male,No,0,Postsecondary,6782,0,,360,,N
+Female,Yes,0,Postsecondary,2484,2302,137,360,1,Y
+Male,Yes,0,Postsecondary,1977,997,50,360,1,Y
+Male,Yes,0,Postsecondary,4188,0,115,180,1,Y
+Male,Yes,0,Postsecondary,1759,3541,131,360,1,Y
+Male,Yes,2,Postsecondary,4288,3263,133,180,1,Y
+Male,No,0,Postsecondary,4843,3806,151,360,1,Y
+Male,Yes,,Postsecondary,13650,0,,360,1,Y
+Male,Yes,0,No Postsecondary,4652,3583,,360,1,Y
+Male,,,Postsecondary,3816,754,160,360,1,Y
+Male,Yes,1,Postsecondary,3052,1030,100,360,1,Y
+Male,Yes,2,Postsecondary,11417,1126,225,360,1,Y
+Male,No,0,Postsecondary,7333,0,120,360,1,N
+Male,Yes,2,Postsecondary,3800,3600,216,360,0,N
+Male,Yes,3+,No Postsecondary,2071,754,94,480,1,Y
+Male,No,0,Postsecondary,5316,0,136,360,1,Y
+Female,Yes,0,Postsecondary,2929,2333,139,360,1,Y
+Male,Yes,0,Postsecondary,3572,4114,152,,0,N
+Female,No,1,Postsecondary,7451,0,,360,1,Y
+Male,No,0,Postsecondary,5050,0,118,360,1,Y
+Male,Yes,1,Postsecondary,14583,0,185,180,1,Y
+Female,Yes,0,No Postsecondary,3167,2283,154,360,1,Y
+Male,Yes,1,Postsecondary,2214,1398,85,360,,Y
+Male,Yes,0,Postsecondary,5568,2142,175,360,1,N
+Female,No,0,Postsecondary,10408,0,259,360,1,Y
+Male,Yes,,Postsecondary,5667,2667,180,360,1,Y
+Female,No,0,Postsecondary,4166,0,44,360,1,Y
+Female,No,0,Postsecondary,2137,8980,137,360,0,Y
+Male,Yes,2,Postsecondary,2957,0,81,360,1,Y
+Male,Yes,0,Postsecondary,4300,2014,194,360,1,Y
+Female,No,0,Postsecondary,3692,0,93,360,,Y
+,Yes,3+,Postsecondary,23803,0,370,360,1,Y
+Male,No,0,Postsecondary,3865,1640,,360,1,Y
+Male,Yes,1,Postsecondary,10513,3850,160,180,0,N
+Male,Yes,0,No Postsecondary,6080,2569,182,360,,N
+Male,No,0,Postsecondary,20166,0,650,480,,Y
+Male,No,0,Postsecondary,2014,1929,74,360,1,Y
+Male,No,0,Postsecondary,2718,0,70,360,1,Y
+Male,Yes,0,Postsecondary,3459,0,25,120,1,Y
+Male,No,0,Postsecondary,4895,0,102,360,1,Y
+Male,Yes,3+,Postsecondary,4000,7750,290,360,1,N
+Female,Yes,0,Postsecondary,4583,0,84,360,1,N
+Male,Yes,2,Postsecondary,3316,3500,88,360,1,Y
+Male,No,0,Postsecondary,14999,0,242,360,0,N
+Male,Yes,2,Postsecondary,4200,1430,129,360,1,N
+Male,Yes,2,Postsecondary,5042,2083,185,360,1,N
+Male,No,0,Postsecondary,5417,0,168,360,1,Y
+Male,No,0,No Postsecondary,6950,0,175,180,1,Y
+Male,Yes,0,Postsecondary,2698,2034,122,360,1,Y
+Male,Yes,2,Postsecondary,11757,0,187,180,1,Y
+Female,Yes,0,Postsecondary,2330,4486,100,360,1,Y
+Female,Yes,2,No Postsecondary,14866,0,70,360,1,Y
+Male,Yes,1,No Postsecondary,1538,1425,30,360,1,Y
+Female,No,0,Postsecondary,10000,1666,225,360,1,N
+Male,Yes,0,Postsecondary,4860,830,125,360,1,Y
+Male,No,0,Postsecondary,6277,0,118,360,0,N
+Male,Yes,0,Postsecondary,2577,3750,152,360,1,Y
+Male,No,0,Postsecondary,9166,0,244,360,1,N
+Male,Yes,2,No Postsecondary,2281,0,113,360,1,N
+Male,No,0,Postsecondary,3254,0,50,360,1,Y
+Male,Yes,3+,No Postsecondary,39999,0,600,180,0,Y
+Male,Yes,1,Postsecondary,6000,0,160,360,,Y
+Male,Yes,1,Postsecondary,9538,0,187,360,1,Y
+Male,No,0,Postsecondary,2980,2083,120,360,1,Y
+Male,Yes,0,No Postsecondary,4583,5625,255,360,1,Y
+Male,Yes,0,Postsecondary,1863,1041,98,360,1,Y
+Male,Yes,0,Postsecondary,7933,0,275,360,1,N
+Male,Yes,1,Postsecondary,3089,1280,121,360,0,N
+Male,Yes,2,Postsecondary,4167,1447,158,360,1,Y
+Male,Yes,0,Postsecondary,9323,0,75,180,1,Y
+Male,Yes,0,No Postsecondary,3707,3166,182,,1,Y
+Female,Yes,0,No Postsecondary,4583,0,112,360,1,N
+Male,Yes,0,Postsecondary,2439,3333,129,360,1,Y
+Male,No,0,Postsecondary,2237,0,63,480,0,N
+Male,Yes,2,Postsecondary,8000,0,200,360,1,Y
+Male,Yes,0,Postsecondary,1820,1769,95,360,1,Y
+,Yes,3+,No Postsecondary,51763,0,700,300,1,Y
+Male,Yes,3+,Postsecondary,3522,0,81,180,1,N
+Male,Yes,0,Postsecondary,5708,5625,187,360,1,Y
+Male,Yes,0,No Postsecondary,4344,736,87,360,1,N
+Male,Yes,0,Postsecondary,3497,1964,116,360,1,Y
+Male,Yes,2,No Postsecondary,2045,1619,101,360,1,Y
+Male,Yes,3+,Postsecondary,5516,11300,495,360,0,N
+Male,Yes,1,Postsecondary,3750,0,116,360,1,Y
+Male,No,0,Postsecondary,2333,1451,102,480,0,N
+Male,Yes,1,Postsecondary,6400,7250,180,360,0,N
+Male,No,0,Postsecondary,1916,5063,67,360,,N
+Male,Yes,0,Postsecondary,4600,0,73,180,1,Y
+Male,Yes,1,Postsecondary,33846,0,260,360,1,N
+Female,Yes,0,Postsecondary,3625,0,108,360,1,Y
+Male,Yes,0,No Postsecondary,39147,4750,120,360,1,Y
+Male,Yes,1,No Postsecondary,2178,0,66,300,0,N
+Male,Yes,0,Postsecondary,2383,2138,58,360,,Y
+,Yes,0,No Postsecondary,674,5296,168,360,1,Y
+Male,Yes,0,Postsecondary,9328,0,188,180,1,Y
+Male,No,0,Postsecondary,4885,0,48,360,1,Y
+Male,No,0,Postsecondary,12000,0,164,360,1,N
+Male,Yes,0,No Postsecondary,6033,0,160,360,1,N
+Male,No,0,No Postsecondary,3858,0,76,360,1,Y
+Male,No,0,Postsecondary,4191,0,120,360,1,Y
+Male,Yes,1,Postsecondary,3125,2583,170,360,1,N
+Male,No,0,Postsecondary,8333,3750,187,360,1,Y
+Female,No,0,No Postsecondary,1907,2365,120,,1,Y
+Female,Yes,0,Postsecondary,3416,2816,113,360,,Y
+Male,No,0,Postsecondary,11000,0,83,360,1,N
+Male,Yes,1,Postsecondary,2600,2500,90,360,1,Y
+Male,No,2,No Postsecondary,4923,0,166,360,0,Y
+Male,Yes,3+,Postsecondary,3992,0,,180,1,N
+Male,Yes,1,Postsecondary,3500,1083,135,360,1,Y
+Male,Yes,2,Postsecondary,3917,0,124,360,1,Y
+Female,No,0,Postsecondary,4408,0,120,360,1,Y
+Female,No,0,Postsecondary,3244,0,80,360,1,Y
+Male,No,0,Postsecondary,3975,2531,55,360,1,Y
+Male,No,0,Postsecondary,2479,0,59,360,1,Y
+Male,No,0,No Postsecondary,3418,0,127,360,1,N
+Female,No,0,Postsecondary,10000,0,214,360,1,N
+Male,Yes,3+,Postsecondary,3430,1250,128,360,0,N
+Male,Yes,1,Postsecondary,7787,0,240,360,1,Y
+Male,Yes,3+,Postsecondary,5703,0,130,360,1,Y
+Male,Yes,0,No Postsecondary,3173,3021,137,360,1,Y
+Male,Yes,3+,No Postsecondary,3850,983,100,360,1,Y
+Male,Yes,0,No Postsecondary,150,1800,135,360,1,N
+Male,Yes,0,Postsecondary,3727,1775,131,360,1,Y
+Male,Yes,2,Postsecondary,5000,0,72,360,0,N
+Female,Yes,2,Postsecondary,4283,2383,127,360,,Y
+Male,Yes,0,Postsecondary,2221,0,60,360,0,N
+Male,Yes,2,No Postsecondary,4009,1717,116,360,1,Y
+Male,No,0,No Postsecondary,2971,2791,144,360,1,Y
+Male,Yes,0,Postsecondary,7578,1010,175,,1,Y
+Male,Yes,0,Postsecondary,6250,0,128,360,1,Y
+Male,Yes,0,Postsecondary,3250,0,170,360,1,N
+Male,Yes,,Postsecondary,4735,0,138,360,1,N
+Male,Yes,2,Postsecondary,6250,1695,210,360,1,Y
+Male,,,Postsecondary,4758,0,158,480,1,Y
+Male,No,0,No Postsecondary,6400,0,200,360,1,Y
+Male,Yes,1,Postsecondary,2491,2054,104,360,1,Y
+Male,Yes,0,Postsecondary,3716,0,42,180,1,Y
+Male,No,0,Postsecondary,3189,2598,120,,1,Y
+Female,No,0,Postsecondary,8333,0,280,360,1,Y
+Male,Yes,1,Postsecondary,3155,1779,140,360,1,Y
+Male,Yes,1,Postsecondary,5500,1260,170,360,1,Y
+Male,Yes,0,Postsecondary,5746,0,255,360,,N
+Female,No,0,No Postsecondary,3463,0,122,360,,Y
+Female,No,1,No Postsecondary,3812,0,112,360,1,Y
+Male,Yes,1,Postsecondary,3315,0,96,360,1,Y
+Male,Yes,2,No Postsecondary,5819,5000,120,360,1,Y
+Male,Yes,1,Postsecondary,2510,1983,140,180,1,N
+Male,No,0,Postsecondary,2965,5701,155,60,1,Y
+Male,Yes,2,Postsecondary,6250,1300,108,360,1,Y
+Male,Yes,0,No Postsecondary,3406,4417,123,360,1,Y
+Male,No,0,Postsecondary,6050,4333,120,180,1,N
+Male,Yes,2,Postsecondary,9703,0,112,360,1,Y
+Male,Yes,1,Postsecondary,6608,0,137,180,1,Y
+Male,Yes,1,No Postsecondary,2882,1843,123,480,1,Y
+Male,Yes,0,Postsecondary,1809,1868,90,360,1,Y
+Male,Yes,0,Postsecondary,1668,3890,201,360,0,N
+Female,No,2,Postsecondary,3427,0,138,360,1,N
+Male,No,0,Postsecondary,2583,2167,104,360,1,Y
+Male,Yes,1,Postsecondary,2661,7101,279,180,1,Y
+Male,No,0,Postsecondary,16250,0,192,360,0,N
+Female,No,3+,Postsecondary,3083,0,255,360,1,Y
+Male,No,0,Postsecondary,6045,0,115,360,0,N
+Male,Yes,3+,Postsecondary,5250,0,94,360,1,N
+Male,Yes,0,Postsecondary,14683,2100,304,360,1,N
+Male,Yes,3+,Postsecondary,4931,0,128,360,,N
+Male,Yes,1,No Postsecondary,6083,4250,330,360,,Y
+Male,No,0,Postsecondary,2060,2209,134,360,1,Y
+Female,No,1,Postsecondary,3481,0,155,36,1,N
+Female,No,0,Postsecondary,7200,0,120,360,1,Y
+Male,No,0,Postsecondary,5166,0,128,360,1,Y
+Male,No,0,Postsecondary,4095,3447,151,360,1,Y
+Male,Yes,2,No Postsecondary,4708,1387,150,360,1,Y
+Male,Yes,3+,No Postsecondary,4333,1811,160,360,0,Y
+Female,No,0,Postsecondary,3418,0,135,360,1,N
+Female,No,1,Postsecondary,2876,1560,90,360,1,Y
+Female,No,0,No Postsecondary,3237,0,30,360,1,Y
+Male,Yes,0,Postsecondary,11146,0,136,360,1,Y
+Male,No,0,Postsecondary,2833,1857,126,360,1,Y
+Male,Yes,0,Postsecondary,2620,2223,150,360,1,Y
+Male,Yes,2,Postsecondary,3900,0,90,360,1,Y
+Male,Yes,1,Postsecondary,2750,1842,115,360,1,Y
+Male,Yes,0,Postsecondary,3993,3274,207,360,1,Y
+Male,Yes,0,Postsecondary,3103,1300,80,360,1,Y
+Male,Yes,0,No Postsecondary,14583,0,436,360,1,Y
+Female,Yes,0,Postsecondary,4100,0,124,360,,Y
+Male,No,1,Postsecondary,4053,2426,158,360,0,N
+Male,Yes,0,Postsecondary,3927,800,112,360,1,Y
+Male,Yes,2,Postsecondary,2301,985.7999878,78,180,1,Y
+Female,No,0,No Postsecondary,1811,1666,54,360,1,Y
+Male,Yes,0,Postsecondary,20667,0,,360,1,N
+Male,No,0,Postsecondary,3158,3053,89,360,1,Y
+Female,No,0,No Postsecondary,2600,1717,99,300,1,N
+Male,Yes,0,Postsecondary,3704,2000,120,360,1,Y
+Female,No,0,Postsecondary,4124,0,115,360,1,Y
+Male,No,0,Postsecondary,9508,0,187,360,1,Y
+Male,Yes,0,Postsecondary,3075,2416,139,360,1,Y
+Male,Yes,2,Postsecondary,4400,0,127,360,0,N
+Male,Yes,2,No Postsecondary,3153,1560,134,360,1,Y
+Female,No,,Postsecondary,5417,0,143,480,0,N
+Male,Yes,0,No Postsecondary,2383,3334,172,360,1,Y
+Male,Yes,3+,Postsecondary,4416,1250,110,360,1,Y
+Male,Yes,1,Postsecondary,6875,0,200,360,1,Y
+Female,Yes,1,No Postsecondary,4666,0,135,360,1,Y
+Female,No,0,No Postsecondary,5000,2541,151,480,1,N
+Male,Yes,1,Postsecondary,2014,2925,113,360,1,N
+Male,Yes,0,Postsecondary,1800,2934,93,360,0,N
+Male,Yes,,Postsecondary,2875,1750,105,360,1,Y
+Female,No,0,Postsecondary,5000,0,132,360,1,Y
+Male,Yes,1,No Postsecondary,1625,1803,96,360,1,Y
+Male,No,0,Postsecondary,4000,2500,140,360,1,Y
+Male,No,0,No Postsecondary,2000,0,,360,1,N
+Female,No,0,Postsecondary,3762,1666,135,360,1,Y
+Female,No,0,No Postsecondary,2400,1863,104,360,0,N
+Male,No,0,Postsecondary,20233,0,480,360,1,N
+Male,Yes,2,Postsecondary,7667,0,185,360,,Y
+Female,No,0,Postsecondary,2917,0,84,360,1,Y
+Male,No,0,Postsecondary,2927,2405,111,360,1,Y
+Female,No,0,Postsecondary,2507,0,56,360,1,Y
+Male,Yes,2,Postsecondary,5746,0,144,84,,Y
+,Yes,0,Postsecondary,2473,1843,159,360,1,N
+Male,Yes,1,Postsecondary,3399,1640,111,180,1,Y
+Male,Yes,2,Postsecondary,3717,0,120,360,1,Y
+Male,Yes,0,No Postsecondary,2058,2134,88,360,,Y
+Female,No,1,No Postsecondary,3541,0,112,360,,Y
+Male,Yes,1,Postsecondary,10000,0,155,360,1,N
+Male,Yes,0,Postsecondary,2400,2167,115,360,1,Y
+Male,Yes,3+,No Postsecondary,4342,189,124,360,1,Y
+Male,Yes,2,Postsecondary,3601,1590,,360,1,Y
+Female,No,0,Postsecondary,3166,2985,132,360,,Y
+Male,Yes,3+,Postsecondary,15000,0,300,360,1,Y
+Male,Yes,1,Postsecondary,8666,4983,376,360,0,N
+Male,No,0,No Postsecondary,4917,0,130,360,0,Y
+Male,Yes,0,Postsecondary,5818,2160,184,360,1,Y
+Female,Yes,0,Postsecondary,4333,2451,110,360,1,N
+Female,No,0,Postsecondary,2500,0,67,360,1,Y
+Male,No,1,Postsecondary,4384,1793,117,360,1,Y
+Male,No,0,Postsecondary,2935,0,98,360,1,Y
+Male,No,,No Postsecondary,2833,0,71,360,1,Y
+Male,Yes,0,Postsecondary,63337,0,490,180,1,Y
+,Yes,1,Postsecondary,9833,1833,182,180,1,Y
+Male,Yes,,Postsecondary,5503,4490,70,,1,Y
+Male,Yes,1,No Postsecondary,5250,688,160,360,1,Y
+Male,Yes,2,Postsecondary,2500,4600,176,360,1,Y
+Female,No,3+,Postsecondary,1830,0,,360,0,N
+Female,No,0,Postsecondary,4160,0,71,360,1,Y
+Male,Yes,3+,Postsecondary,2647,1587,173,360,1,N
+Female,No,0,Postsecondary,2378,0,46,360,1,N
+Male,Yes,1,No Postsecondary,4554,1229,158,360,1,Y
+Male,Yes,3+,Postsecondary,3173,0,74,360,1,Y
+Male,Yes,2,Postsecondary,2583,2330,125,360,1,Y
+Male,Yes,0,Postsecondary,2499,2458,160,360,1,Y
+Male,Yes,,Postsecondary,3523,3230,152,360,0,N
+Male,Yes,2,No Postsecondary,3083,2168,126,360,1,Y
+Male,Yes,0,No Postsecondary,6333,4583,259,360,,Y
+Male,Yes,0,Postsecondary,2625,6250,187,360,1,Y
+Male,Yes,0,Postsecondary,9083,0,228,360,1,Y
+Male,No,0,Postsecondary,8750,4167,308,360,1,N
+Male,Yes,3+,Postsecondary,2666,2083,95,360,1,Y
+Female,Yes,0,Postsecondary,5500,0,105,360,0,N
+Female,Yes,0,No Postsecondary,2423,505,130,360,1,Y
+Female,No,,Postsecondary,3813,0,116,180,1,Y
+Male,Yes,2,Postsecondary,8333,3167,165,360,1,Y
+Male,Yes,1,Postsecondary,3875,0,67,360,1,N
+Male,Yes,0,No Postsecondary,3000,1666,100,480,0,N
+Male,Yes,3+,Postsecondary,5167,3167,200,360,1,Y
+Female,No,1,Postsecondary,4723,0,81,360,1,N
+Male,Yes,2,Postsecondary,5000,3667,236,360,1,Y
+Male,Yes,0,No Postsecondary,4750,2333,130,360,1,Y
+Male,Yes,0,Postsecondary,3013,3033,95,300,,Y
+Male,No,0,Postsecondary,6822,0,141,360,1,Y
+Male,No,0,Postsecondary,6216,0,133,360,1,N
+Male,No,0,Postsecondary,2500,0,96,480,1,N
+Male,No,0,Postsecondary,5124,0,124,,0,N
+Male,Yes,1,Postsecondary,6325,0,175,360,1,Y
+Male,Yes,0,Postsecondary,19730,5266,570,360,1,N
+Female,No,0,Postsecondary,15759,0,55,360,1,Y
+Male,Yes,2,Postsecondary,5185,0,155,360,1,Y
+Male,Yes,2,Postsecondary,9323,7873,380,300,1,Y
+Male,No,1,Postsecondary,3062,1987,111,180,0,N
+Female,No,0,Postsecondary,2764,1459,110,360,1,Y
+Male,Yes,0,Postsecondary,4817,923,120,180,1,Y
+Male,Yes,3+,Postsecondary,8750,4996,130,360,1,Y
+Male,Yes,0,Postsecondary,4310,0,130,360,,Y
+Male,No,0,Postsecondary,3069,0,71,480,1,N
+Male,Yes,2,Postsecondary,5391,0,130,360,1,Y
+Male,Yes,0,Postsecondary,3333,2500,128,360,1,Y
+Male,No,0,Postsecondary,5941,4232,296,360,1,Y
+Female,No,0,Postsecondary,6000,0,156,360,1,Y
+Male,No,0,Postsecondary,7167,0,128,360,1,Y
+Male,Yes,2,Postsecondary,4566,0,100,360,1,N
+Male,No,1,Postsecondary,3667,0,113,180,1,Y
+Male,No,0,No Postsecondary,2346,1600,132,360,1,Y
+Male,Yes,0,No Postsecondary,3010,3136,,360,0,N
+Male,Yes,0,Postsecondary,2333,2417,136,360,1,Y
+Male,Yes,0,Postsecondary,5488,0,125,360,1,Y
+Male,No,3+,Postsecondary,9167,0,185,360,1,Y
+Male,Yes,3+,Postsecondary,9504,0,275,360,1,Y
+Male,Yes,0,Postsecondary,2583,2115,120,360,,Y
+Male,Yes,2,No Postsecondary,1993,1625,113,180,1,Y
+Male,Yes,2,Postsecondary,3100,1400,113,360,1,Y
+Male,Yes,2,Postsecondary,3276,484,135,360,,Y
+Female,No,0,Postsecondary,3180,0,71,360,0,N
+Male,Yes,0,Postsecondary,3033,1459,95,360,1,Y
+Male,No,0,No Postsecondary,3902,1666,109,360,1,Y
+Female,No,0,Postsecondary,1500,1800,103,360,0,N
+Male,Yes,2,No Postsecondary,2889,0,45,180,0,N
+Male,No,0,No Postsecondary,2755,0,65,300,1,N
+Male,No,0,Postsecondary,2500,20000,103,360,1,Y
+Female,No,0,No Postsecondary,1963,0,53,360,1,Y
+Female,No,0,Postsecondary,7441,0,194,360,1,N
+Female,No,0,Postsecondary,4547,0,115,360,1,Y
+Male,Yes,0,No Postsecondary,2167,2400,115,360,1,Y
+Female,No,0,No Postsecondary,2213,0,66,360,1,Y
+Male,Yes,1,Postsecondary,8300,0,152,300,0,N
+Male,Yes,3+,Postsecondary,81000,0,360,360,0,N
+Female,No,1,No Postsecondary,3867,0,62,360,1,N
+Male,Yes,0,Postsecondary,6256,0,160,360,,Y
+Male,Yes,0,No Postsecondary,6096,0,218,360,0,N
+Male,Yes,0,No Postsecondary,2253,2033,110,360,1,Y
+Female,Yes,0,No Postsecondary,2149,3237,178,360,0,N
+Female,No,0,Postsecondary,2995,0,60,360,1,Y
+Female,No,1,Postsecondary,2600,0,160,360,1,N
+Male,Yes,2,Postsecondary,1600,20000,239,360,1,N
+Male,Yes,0,Postsecondary,1025,2773,112,360,1,Y
+Male,Yes,0,Postsecondary,3246,1417,138,360,1,Y
+Male,Yes,0,Postsecondary,5829,0,138,360,1,Y
+Female,No,0,No Postsecondary,2720,0,80,,0,N
+Male,Yes,0,Postsecondary,1820,1719,100,360,1,Y
+Male,Yes,1,Postsecondary,7250,1667,110,,0,N
+Male,Yes,0,Postsecondary,14880,0,96,360,1,Y
+Male,Yes,0,Postsecondary,2666,4300,121,360,1,Y
+Female,No,1,No Postsecondary,4606,0,81,360,1,N
+Male,Yes,2,Postsecondary,5935,0,133,360,1,Y
+Male,Yes,0,Postsecondary,2920,16.12000084,87,360,1,Y
+Male,No,0,No Postsecondary,2717,0,60,180,1,Y
+Female,No,1,Postsecondary,8624,0,150,360,1,Y
+Male,No,0,Postsecondary,6500,0,105,360,0,N
+Male,No,0,Postsecondary,12876,0,405,360,1,Y
+Male,Yes,0,Postsecondary,2425,2340,143,360,1,Y
+Male,No,0,Postsecondary,3750,0,100,360,1,Y
+Female,,,Postsecondary,10047,0,,240,1,Y
+Male,No,0,Postsecondary,1926,1851,50,360,1,Y
+Male,Yes,0,Postsecondary,2213,1125,,360,1,Y
+Male,No,0,Postsecondary,10416,0,187,360,0,N
+Female,Yes,0,No Postsecondary,7142,0,138,360,1,Y
+Male,No,0,Postsecondary,3660,5064,187,360,1,Y
+Male,Yes,0,Postsecondary,7901,1833,180,360,1,Y
+Male,No,3+,No Postsecondary,4707,1993,148,360,1,Y
+Male,No,1,Postsecondary,37719,0,152,360,1,Y
+Male,Yes,0,Postsecondary,7333,8333,175,300,,Y
+Male,Yes,1,Postsecondary,3466,1210,130,360,1,Y
+Male,Yes,2,No Postsecondary,4652,0,110,360,1,Y
+Male,Yes,0,Postsecondary,3539,1376,55,360,1,N
+Male,Yes,2,Postsecondary,3340,1710,150,360,0,N
+Male,No,1,No Postsecondary,2769,1542,190,360,,N
+Male,Yes,2,No Postsecondary,2309,1255,125,360,0,N
+Male,Yes,2,No Postsecondary,1958,1456,60,300,,Y
+Male,Yes,0,Postsecondary,3948,1733,149,360,0,N
+Male,Yes,0,Postsecondary,2483,2466,90,180,0,Y
+Male,No,0,Postsecondary,7085,0,84,360,1,Y
+Male,Yes,2,Postsecondary,3859,0,96,360,1,Y
+Male,Yes,0,Postsecondary,4301,0,118,360,1,Y
+Male,Yes,0,Postsecondary,3708,2569,173,360,1,N
+Male,No,2,Postsecondary,4354,0,136,360,1,Y
+Male,Yes,0,Postsecondary,8334,0,160,360,1,N
+,Yes,0,Postsecondary,2083,4083,160,360,,Y
+Male,Yes,3+,Postsecondary,7740,0,128,180,1,Y
+Male,Yes,0,Postsecondary,3015,2188,153,360,1,Y
+Female,No,1,No Postsecondary,5191,0,132,360,1,Y
+Male,No,0,Postsecondary,4166,0,98,360,0,N
+Male,No,0,Postsecondary,6000,0,140,360,1,Y
+Male,Yes,3+,No Postsecondary,2947,1664,70,180,0,N
+,Yes,0,Postsecondary,16692,0,110,360,1,Y
+Female,Yes,2,No Postsecondary,210,2917,98,360,1,Y
+Male,Yes,0,Postsecondary,4333,2451,110,360,1,N
+Male,Yes,1,Postsecondary,3450,2079,162,360,1,Y
+Male,Yes,1,No Postsecondary,2653,1500,113,180,0,N
+Male,Yes,3+,Postsecondary,4691,0,100,360,1,Y
+Female,No,0,Postsecondary,2500,0,93,360,,Y
+Male,No,2,Postsecondary,5532,4648,162,360,1,Y
+Male,Yes,2,Postsecondary,16525,1014,150,360,1,Y
